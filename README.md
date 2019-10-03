@@ -27,9 +27,8 @@ In order to increase awareness about Open Source among people with the Machine L
 
 ## How To Contribute
 
-To contribute to this repository, what you simply need to do is create a Pull Request with the correct format of data files as told in the example model and wait for your Pull Request to be merged!
+To contribute to this repository, what you simply need to do is create a Pull Request with the correct format of data files as told in the [example model](/example_model) and wait for your Pull Request to be merged!
 To let us know about your Pull Request, simply comment your PR tag number with a message saying, "Content added".
-(Link to the example folder)
 
 ## References
 -	[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
