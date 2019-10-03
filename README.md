@@ -3,8 +3,7 @@
 If you ask me, What is Deep Learning? I would always say that it's mostly a way to play with the image, video or audio data. 
 Well, that being the informal definition of Deep Learning, the formal definition for it comes like this, "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks."
 
-## MAIN IMAGE HERE
-![](/images/dl-main.png)
+![Deep Learning](/images/dl-main.png)
 
 ## More about Deep Learning
 
@@ -16,7 +15,6 @@ Well, that being the informal definition of Deep Learning, the formal definition
 ### Applications of Deep Learning
 Deep learning architectures such as deep neural networks, deep belief networks, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases superior to human experts.
 
-## WHY IMAGE HERE
 ![](/images/dl-why.png)
 
 ### Inspiration
