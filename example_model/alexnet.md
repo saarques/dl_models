@@ -8,7 +8,7 @@ AlexNet is the first deep architecture which was introduced by one of the pionee
 
 When broken down, AlexNet seems like a simple architecture with convolutional and pooling layers one on top of the other, followed by fully connected layers at the top. This is a very simple architecture, which was conceptualised way back in 1980s. The things which set apart this model is the scale at which it performs the task and the use of GPU for training. In 1980s, CPU was used for training a neural network. Whereas AlexNet speeds up the training by 10 times just by the use of GPU.
 
-![](/images/)
+![](/images/alexnet.png)
 
 ## More (Optional)
 
